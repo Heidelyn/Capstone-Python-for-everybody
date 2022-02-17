@@ -16,5 +16,6 @@ Gbasic.py: It´s the first data analysis, it counts and determines the Top Email
 
 1)	There is a simple visualization of the word frequency in the subject lines in the files gword.py, this produces the file gword.js which you can visualize using the file gword.htm.
 2)	Gline.py visualizes email participation by organizations over time. Its output is written to gline.js which is visualized using gline.htm
-Databases content.sqlite and index.sqlite has not been included in this repository because they are large (> 200MB).
+
+*Databases content.sqlite and index.sqlite has not been included in this repository because they are large (> 200MB).
 
